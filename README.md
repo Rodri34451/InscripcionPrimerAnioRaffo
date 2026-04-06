@@ -11,7 +11,7 @@ Este proyecto contiene únicamente los módulos asignados a mí (Logueo admin y 
 - JS puro
 - Axios (para consultas a la API)
 - Dapper (para convertir los resultados de las consultas en objetos)
-- SQL Server
+- T-SQL
 - ClosedXML (para convertir datos extraídos de tablas en hojas de cálculo)
 
 ### English
@@ -25,5 +25,5 @@ This project only has the modules I was assigned to do (Logueo admin and Exporta
 - Vanilla JS
 - Axios (for API requests)
 - Dapper (to turn queries' results into objects)
-- SQL Server
+- T-SQL
 - ClosedXML (to turn data from tables into Worksheets)
